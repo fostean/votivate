@@ -14,7 +14,7 @@ assignees: codygordon
       2. Select a platform label over there (either HQ or Clipboard) 👉
 
       3. Do your best to be as detailed as possible in the fields below, 
-         but don't overhtink it. I'll reach out if anything is unclear.
+         but don't overthink it. I'll reach out if anything is unclear.
 
        - Cody 
 -->
