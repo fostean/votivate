@@ -9,14 +9,14 @@ assignees: codygordon
 
 <!--  Hi! Thanks for submitting a bug report.
 
-      1. Please write a clear and succinct title that sums up the bug.
+      Please write a clear and succinct title that sums up the bug.
      
-      2. Select a platform label over there (either HQ or Clipboard) 👉
+      Select a platform label over there (either HQ or Clipboard) 👉
 
-      3. Do your best to be as detailed as possible in the fields below, 
-         but don't overthink it. I'll reach out if anything is unclear.
+      Do your best to be as detailed as possible in the fields below, 
+      but don't overthink it. I'll reach out if anything is unclear.
 
-       - Cody 
+      - Cody 
 -->
 
 **Describe the bug**
