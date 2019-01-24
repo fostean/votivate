@@ -7,15 +7,16 @@ assignees: codygordon
 
 ---
 
-<!--
- Hi! Thanks for submitting a bug report.
+<!--  Hi! Thanks for submitting a bug report.
 
- First, please select a platform label over there (either HQ or Clipboard). 
+      1. Please write a clear and succinct title that sums up the bug.
+     
+      2. Select a platform label over there (either HQ or Clipboard) 👉
 
- Do your best to be as detailed as possible but don't overhtink it.
- I'll reach out if anything is unclear.
+      3. Do your best to be as detailed as possible in the fields below, 
+         but don't overhtink it. I'll reach out if anything is unclear.
 
- - Cody
+       - Cody 
 -->
 
 **Describe the bug**
