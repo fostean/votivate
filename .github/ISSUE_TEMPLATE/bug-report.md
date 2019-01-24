@@ -19,19 +19,18 @@ assignees: codygordon
       - Cody 
 -->
 
-**Describe the bug**
-A clear and concise description of what the bug is and the expected behavior.
-
 **Environment:**
  - OS: [e.g. iOS, Windows]
  - Browser / Device [e.g. for web Chrome, Safari OR mobile app iPhone 6, Pixel 2]
 
+**Detailed Description**
+A clear and concise description of what the bug is and the expected behavior.
+
 **To Reproduce**
-Steps to reproduce the behavior:
+Simple steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If you've got them, drag and drop screenshots here to help demonstrate the problem.
