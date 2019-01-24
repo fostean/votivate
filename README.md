@@ -3,4 +3,10 @@ Votivate Development
 
 This repository is used to track issues related to Votivate.
 
-If making a feature request or bug report, please create a new issue with the appropriate template and the development team will prioritize.
+[Click here to make a **Bug Report**.](https://github.com/WorkingFamilies/votivate-dev/issues/new?assignees=codygordon&labels=bug&template=bug-report.md&title=)
+
+[Click here to make a **Feature Request**.](https://github.com/WorkingFamilies/votivate-dev/issues/new?assignees=&labels=enhancement&template=feature-request.md&title=)
+
+
+
+
