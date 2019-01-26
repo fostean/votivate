@@ -1,7 +1,7 @@
-Votivate Development
+Votivate
 =================================
 
-This repository is used to track issues related to Votivate.
+This repository is used to track issues related to Votivate as well as house the user wiki.
 
 [Click here to make a **Bug Report**.](https://github.com/WorkingFamilies/votivate-dev/issues/new?assignees=codygordon&labels=bug&template=bug-report.md&title=)
 
