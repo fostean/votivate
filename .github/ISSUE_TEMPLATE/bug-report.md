@@ -6,22 +6,24 @@ labels: bug
 assignees: codygordon
 
 ---
+<!--  Hi, thanks for submitting a bug report! Please do the following:
 
+      1. Create a succinct and descriptive title. See other issues for examples.
+      2. Fill in as much detail as possible below (you can type below the comment descriptions).
+      3. We will work to fix bugs immediately when a report is received. -->
+      
 **Environment:**
- - OS: [e.g. iOS, Windows]
- - Browser / Device: [e.g. for web Chrome, Safari OR mobile app iPhone 6, Pixel 2]
+ - OS (Windows, Mac, etc): 
+ - Browser (web) or Device (mobile): 
 
 **Detailed Description**
-A clear and concise description of what the bug is and the expected behavior.
+<!-- A clear and concise description of what the bug is and the expected behavior. -->
 
-**To Reproduce**
-Simple steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....')
 
 **Does It Have a Workaround?**
-Describe a workaround if there is one in the meantime.
+<!-- Describe a workaround to get what you need in the meantime, if there is one. -->
+
 
 **Screenshots**
-If you've got them, drag and drop screenshots here to help demonstrate the problem.
+<!-- If you've got them, drag and drop screenshots here to help demonstrate the problem. -->
+
