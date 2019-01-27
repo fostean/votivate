@@ -15,3 +15,7 @@ Please be as detailed as possible as to what this feature should do and why.
 
 **Urgency**
 On a scale of 1-3 how urgent is this feature?
+
+1: Nice to have
+2: Should have ASAP
+3: Active campaign needs _now_
